@@ -1,17 +1,35 @@
 # Hi there, I'm Zeynep! 👋
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=zeyneperileri&color=blue&style=flat-square" alt="profile views" />
+</p>
 
-I am an undergraduate Mathematics student at Ankara University, aiming for a Direct PhD in **Applied Mathematics and Data Science**. I am passionate about bridging the gap between abstract mathematical theories and real-world data applications.
+Undergraduate Mathematics Student at Ankara University | Aspiring Quantitative Researcher | Prospective Ph.D. Student
 
-### 🎯 Current Focus
-* Maintaining an upward academic trajectory to lock my GPA above 3.20.
-* Transitioning my foundational Python skills into comprehensive Data Science projects (EDA, Machine Learning).
-* Preparing for IELTS and compiling mathematical research for PhD applications in the US.
+---
 
-### 🔬 Highlighted Work
-* **[Abstract Gym]:** A personal platform I founded/designed, dedicated to the visualization of abstract mathematical concepts and theories using GeoGebra.
+### 💡 About Me
+I am an undergraduate Mathematics student at Ankara University, aiming for a Direct PhD in **Applied Mathematics and Data Science**. My academic focus centers on bridging abstract mathematical theories with real-world computational applications.
 
-### 🛠️ Tech Stack & Skills
-* **Languages:** Python (Pandas, NumPy, Matplotlib)
-* **Interests:** Applied Mathematics, Numerical Analysis, Computational Math, Data Visualization
+* **Academic Goals:** Maintaining an upward GPA trajectory (> 3.50), preparing for IELTS, and compiling quantitative research for US PhD admissions.
+* **Data Science:** Translating foundational mathematical and Python skills into rigorous Exploratory Data Analysis (EDA) and statistical modeling.
 
-📫 **How to reach me:** zeyneperileri23@gmail.com
+---
+
+### 🛠️ Technical Arsenal
+* **Languages & Core:** Python, Pandas, NumPy, Git
+* **Visualization & Math:** Matplotlib, Seaborn, Jupyter, GeoGebra
+* **Research Focus:** Applied Mathematics, Numerical Analysis, Computational Math
+
+---
+
+### 🔬 Highlighted Project
+* **[Abstract Gym](https://site-frwclpct4.godaddysites.com):** A personal platform dedicated to the visual representation and interactive simulation of abstract mathematical concepts using GeoGebra.
+
+---
+### 🌐 Portfolio & Links
+* **Interactive Portfolio (Notion):** [View My Portfolio & Projects](https://app.notion.com/p/Hello-I-m-Zeynep-Erileri-791d75df7b5c832aa27601be4fe6000a?source=copy_link)
+
+---
+
+### 📫 Contact
+* **Email:** zeyneperileri23@gmail.com
