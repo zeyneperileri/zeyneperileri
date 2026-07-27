@@ -27,7 +27,7 @@ I am an undergraduate Mathematics student at Ankara University, aiming for a Dir
 
 ---
 ### 🌐 Portfolio & Links
-* **Interactive Portfolio (Notion):** [View My Portfolio & Projects](https://app.notion.com/p/Hello-I-m-Zeynep-Erileri-791d75df7b5c832aa27601be4fe6000a?source=copy_link)
+* **Interactive Portfolio (Notion):** [View My Portfolio & Projects](https://jasper-amaryllis-a4a.notion.site/Hello-I-m-Zeynep-Erileri-791d75df7b5c832aa27601be4fe6000a)
 
 ---
 
