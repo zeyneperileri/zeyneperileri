@@ -8,7 +8,7 @@ Undergraduate Mathematics Student at Ankara University | Aspiring Quantitative R
 ---
 
 ### 💡 About Me
-I am an undergraduate Mathematics student at Ankara University, aiming for a Direct PhD in **Applied Mathematics and Data Science**. My academic focus centers on bridging abstract mathematical theories with real-world computational applications.
+I am an undergraduate Mathematics student at Ankara University, aiming for a Direct PhD in **Applied Mathematics**. My academic focus centers on bridging abstract mathematical theories with real-world computational applications.
 
 * **Academic Goals:** Maintaining an upward GPA trajectory (> 3.50), preparing for IELTS, and compiling quantitative research for US PhD admissions.
 * **Data Science:** Translating foundational mathematical and Python skills into rigorous Exploratory Data Analysis (EDA) and statistical modeling.
